@@ -1,2 +1,2 @@
-https://git-scm.com/download/win
+https://git-scm.com/download/
 O Git Bash é um terminal estendido para otmizar o uso do Git
